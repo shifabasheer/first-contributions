@@ -107,7 +107,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
+## Create a new branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -115,7 +115,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Now create a new branch using the `git checkout` command:
 
 ```
 git checkout -b your-new-branch-name
@@ -129,7 +129,7 @@ git checkout -b add-alonzo-church
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-## Make necessary changes and commit those changes
+## Make necessary changes and commit those changes to your repo
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
